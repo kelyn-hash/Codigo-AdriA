@@ -1,0 +1,7 @@
+{
+  "name": "Caribbean Voice Gen",
+  "description": "A high-fidelity Text-to-Speech application that generates authentic-sounding Caribbean English voices using the latest Gemini TTS technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
